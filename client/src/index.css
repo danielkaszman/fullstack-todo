@@ -1,0 +1,10 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Combo", cursive;
+}
+
+body {
+  background-image: linear-gradient(to right bottom, #d3970b, #c93c11);
+}
